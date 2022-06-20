@@ -1,2 +1,2 @@
 # demonstration
- how to use git to do version contro;
+ how to use git to do version control
